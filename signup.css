@@ -1,0 +1,35 @@
+
+body{
+    background-color: rgba(0, 0, 0, 0.809);
+
+}
+section{
+    margin-top: 100px;
+}
+.sign-up{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-row{
+    width: 26em;
+}
+
+section .title-box{
+    display: flex;
+    justify-content: center;
+}
+.title-box .title{
+   width: 26em;
+}
+.title-box .title span{
+    font-size: 25px;
+    letter-spacing: 0.004em;
+    line-height: 40px;
+    font-weight: 800;
+    color: #286090;
+}
+.col{
+    margin-bottom: 10px;
+}
